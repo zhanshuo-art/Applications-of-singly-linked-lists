@@ -1,1 +1,0 @@
-# Applications-of-singly-linked-lists
